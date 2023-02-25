@@ -1,10 +1,10 @@
 <h4>Here's a roadmap to learn cloud-based Android app development in Java:</h4>
 <h6>
 1. Learn Java: Java is the primary programming language used for Android app development, so it's essential to have a strong foundation in Java before diving into 
- <&nbps>Android development. Start by learning the basics of Java syntax, object-oriented programming, and data structures.<br>
+<&nbps>Android development. Start by learning the basics of Java syntax, object-oriented programming, and data structures.<br>
 
 <br>2. Familiarize yourself with Android Studio: Android Studio is the official Integrated Development Environment (IDE) for Android app development.
- <&nbps>Familiarize yourself with the IDE and its various features, such as the Layout Editor, XML editor, and debugging tools.<br>
+<&nbps>Familiarize yourself with the IDE and its various features, such as the Layout Editor, XML editor, and debugging tools.<br>
 
 3. Learn Android app development fundamentals: Once you have a solid understanding of Java and Android Studio, it's time to start learning the fundamentals of
 <&nbps>Android app development, such as building UIs, handling user input, and working with data.<br>
