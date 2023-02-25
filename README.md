@@ -6,7 +6,7 @@ Android development. Start by learning the basics of Java syntax, object-oriente
 <br>2.Familiarize yourself with Android Studio: Android Studio is the official Integrated Development Environment (IDE) for Android app development.
 Familiarize yourself with the IDE and its various features, such as the Layout Editor, XML editor, and debugging tools.<br>
 
-3. Learn Android app development fundamentals: Once you have a solid understanding of Java and Android Studio, it's time to start learning the fundamentals of
+3.Learn Android app development fundamentals: Once you have a solid understanding of Java and Android Studio, it's time to start learning the fundamentals of
 Android app development, such as building UIs, handling user input, and working with data.<br>
 
 4.Learn cloud computing concepts: As cloud computing is an essential component of cloud-based Android app development, 
